@@ -39,7 +39,6 @@ require (
 	github.com/golang/mock v1.3.1
 	github.com/golang/protobuf v1.3.2
 	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
-	github.com/google/btree v1.0.0 // indirect
 	github.com/google/go-cmp v0.3.1
 	github.com/google/uuid v1.1.1
 	github.com/gophercloud/gophercloud v0.0.0-20190208042652-bc37892e1968
@@ -54,8 +53,8 @@ require (
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-azure-helpers v0.10.0
 	github.com/hashicorp/go-checkpoint v0.5.0
-	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-getter v1.4.0
+	github.com/hashicorp/go-cleanhttp v0.5.2
+	github.com/hashicorp/go-getter v1.6.1
 	github.com/hashicorp/go-hclog v0.0.0-20181001195459-61d530d6c27f
 	github.com/hashicorp/go-immutable-radix v0.0.0-20180129170900-7f3cd4390caa // indirect
 	github.com/hashicorp/go-msgpack v0.5.4 // indirect
@@ -127,7 +126,7 @@ require (
 	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
 	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa
+	golang.org/x/sys v0.0.0-20220517195934-5e4e11fc645e
 	golang.org/x/tools v0.0.0-20190628153133-6cdbf07be9d0
 	google.golang.org/api v0.9.0
 	google.golang.org/grpc v1.21.1
